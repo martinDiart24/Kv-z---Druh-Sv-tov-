@@ -133,12 +133,12 @@ function checkAnswer(selectedAnswer) {
 }
 
 function endGame() {
-    questionElement.textContent = "Konec Hry!";
+    questionElement.textContent = "Konec hry!";
     optionsElement.innerHTML = "";
     scoreElement.style.display = "none";
 
     if (score >= 19) {
-        messageElement.textContent = "GRATULACE, JSI VÍTĚŽ!";
+        messageElement.textContent = "GRATULACE, JSI VÍTĚZ!";
     } else if (score >= 17) {
         messageElement.textContent = "Docela ti to jde!";
     } else if (score >= 14) {
