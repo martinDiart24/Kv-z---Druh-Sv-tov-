@@ -35,7 +35,7 @@ const questions = [
         correctAnswer: "Označovala zlom ve válce"
     },
     {
-        question: "V jaký den byl konec druhé světové války v Evropě?",
+        question: "V jaký den skončila druhá světová válka v Evropě?",
         options: ["17. listopadu. 1945", "8. května 1945"],
         correctAnswer: "8. května 1945"
     },
@@ -50,7 +50,7 @@ const questions = [
         correctAnswer: "Asie-Tichomoří"
     },
     {
-        question: "Která námořní bitva je často považována za zlomový okamžik v Pacifické válce?",
+        question: "Která námořní bitva je často považována za zlomový okamžik války v Pacifiku?",
         options: ["Bitva u Midway", "Bitva o Okinawu"],
         correctAnswer: "Bitva u Midway"
     },
